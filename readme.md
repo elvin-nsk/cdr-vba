@@ -9,11 +9,11 @@
 
 - без значка - страничка и/или папка с файлами находится в каталоге
 - :octocat: - ссылка на ресурс на github'е
-- :earth_asia: - внешняя ссылка на русскоязычный ресурс
-- :earth_americas: - внешняя ссылка на англоязычный ресурс (видите разницу в иконке?)
+- :earth_asia: &#47; :earth_americas: - внешняя ссылка на русскоязычный / англоязычный ресурс
 - :moneybag: - платный макрос, всегда по внешней ссылке
 
 ## Документ, страницы
+- [BitExAll](https://forum.rudtp.ru/resources/x8-iz-korelovskogo-fajla-vytaschit-rastrovye-kartinki.1955/) :earth_asia: - Экспортирует растровые картинки из документа.
 - [File Name Inserter](https://www.oberonplace.com/vba/drawmacros/pathlabel/index.htm) :earth_asia: - Вставляет имя файла документа на страницу(ы).
 
 ## Допечатная подготовка
