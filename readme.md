@@ -59,5 +59,7 @@
 
 ## Полезные статьи
 
+- [Установка макросов](articles/installation.md)
+
 ## Интересные ресурсы
 - [Awesome VBA](https://github.com/sancarn/awesome-vba#readme) :octocat: - Awesome-лист полезных ресурсов для программирования на VBA.
