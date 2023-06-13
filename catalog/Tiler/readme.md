@@ -1,21 +1,34 @@
-# Oberon Object Tiler
+# Object Tiler
 
-This is an updated version of the old [Object Tiler script](http://www.oberonplace.com/draw/drawscripts/tilersh.htm) which has been re-written in VBA and is now compatible with CorelDRAW 10, 11, 12, X3, X4 and Corel DESIGNER 10, 12. The VBA version of the program is **much** faster than the original.
+Это обновленная версия старого скрипта Object Tiler, который был переписан на VBA и теперь совместим с CorelDRAW 10, 11, 12, X3, X4 и Corel DESIGNER 10, 12. Версия программы VBA намного быстрее оригинала. Макрос дублирует выбранные объекты по горизонтали и вертикали, чтобы разместить на странице как можно больше объектов.
+
+- По имени файла известен как `Tiler.gms`.
+- Автор - **Oberon**.
+- Проверенно работает в версии **16**, заявлена поддержка **10, 11, 12, 13, 14**.
+- Язык: **English**.
+- Распространяется **бесплатно**, код **открытый**.
+- **Без поддержки**.
+
+## Установка
+
+[Стандартная](../../articles/installation.md).
+
+Два изображения для кнопки панели инструментов на случай, если вы захотите добавить макрос на панель инструментов (в папке [icon](icon/))
+
+![http://www.oberonplace.com/vba/drawmacros/tiler_sm.gif](assets/image4.gif)![http://www.oberonplace.com/vba/drawmacros/tiler_lg.gif](assets/image5.gif)
+
+## Использование
 
 ![](assets/image1.gif)
 
-The macro duplicates the selected object(s) horizontally and vertically to fit as many on the page as possible. You can specify the desired page margins and object spacing. You can also place crop marks on each row/column of the objects:
+Вы можете указать желаемые поля страницы и расстояние между объектами. Вы также можете размещать метки обрезки в каждой строке/столбце объектов:
 
-**Before**:
+**До**:
 
 ![](assets/image2.gif)
 
-**After**:
+**После**:
 
 ![](assets/image3.gif)
 
-The macro can automatically adjust page orientation if this allows to fit more shapes on the page. Of course, this can be disabled.
-
-The downloadable archive file below contains the GMS module with the macro and two images for the toolbar button in case you want to add the macro to a toolbar:
-
-![http://www.oberonplace.com/vba/drawmacros/tiler_sm.gif](assets/image4.gif)![http://www.oberonplace.com/vba/drawmacros/tiler_lg.gif](assets/image5.gif)
+Макрос может автоматически регулировать ориентацию страницы, если это позволяет разместить на странице больше фигур. Конечно, это можно отключить.

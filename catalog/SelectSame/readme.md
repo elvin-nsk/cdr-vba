@@ -12,7 +12,7 @@
 ## Скачать
 
 - Версия 3 - [ссылка](http://macromonster.com/product/jeffs-select-same-2/) :earth_americas:
-- Также копия последней версии [лежит в архиве](archive/jh_selectsame.zip)
+- Также копия последней версии лежит в архиве - [ссылка](archive/jh_selectsame.zip)
 
 ## Установка
 
