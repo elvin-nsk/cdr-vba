@@ -52,6 +52,7 @@
 - [Transform Each](https://forum.rudtp.ru/threads/macros-transform-each-v-2.70491/) :earth_asia: - Макрос для массовой трансформации объектов. Изменение масштаба, поворот и прочее применяются к каждому из выделенных объектов.
 
 ## Сборники
+- [Grafisin Macro Collections](http://www.grafisin.com/2018/04/free-macro-collections-2018-for.html) :earth_americas: - Сборник разных небольших макросов от индонезийских товарищей, на английском языке: дупликация, замена текста, замена цвета, нумерация, создание превьюшек, фрактальные эффекты, метки реза и прочее.
 - [RionFreeScripts](http://www.rion.ru/information/scripts/) :earth_asia: - Макросы от типографии "Рион": перевод текста в кривые, замена цвета, замена параметров обводки, экспорт в jpeg, допечатная проверка (префлайт), создание векторного штрих-кода.
 - [wOxxOm Tools](https://github.com/elvin-nsk/wx_Tools#readme) :octocat: - Известный сборник макросов от wOxxOm.
 
