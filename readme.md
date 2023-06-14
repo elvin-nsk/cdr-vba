@@ -43,6 +43,7 @@
 - [Mirror Fountain Fill](catalog/MirrorFF) - Позволяет в один клик отзеркалить сложные градиентные заливки, что невозможно сделать стандартными возможностями CorelDRAW. Проверен в работе на версиях 15, 16.
 
 ## Прочее
+- [Bitmap Tools](https://github.com/elvin-nsk/BitmapTools) :octocat: - Редактирование растровых картинок из корела в фотошопе.
 - [Geometric Information](https://smartprepress.ru/GeometricExt.gms) :earth_asia: - Расчёт площади, периметра, объёма сложных фигур.
 - [RemoveUnderlyingDups](catalog/RemoveUnderlyingDups) - Макрос находит и удаляет дубликаты объектов, лежащих друг на друге.
 - [Select Same](catalog/SelectSame) - Позволяет находить объекты, похожие на выделенный, по разным признакам.
@@ -54,7 +55,7 @@
 ## Сборники
 - [Grafisin Macro Collections](http://www.grafisin.com/2018/04/free-macro-collections-2018-for.html) :earth_americas: - Сборник разных небольших макросов от индонезийских товарищей, на английском языке: дупликация, замена текста, замена цвета, нумерация, создание превьюшек, фрактальные эффекты, метки реза и прочее.
 - [RionFreeScripts](http://www.rion.ru/information/scripts/) :earth_asia: - Макросы от типографии "Рион": перевод текста в кривые, замена цвета, замена параметров обводки, экспорт в jpeg, допечатная проверка (префлайт), создание векторного штрих-кода.
-- [wOxxOm Tools](https://github.com/elvin-nsk/wx_Tools#readme) :octocat: - Известный сборник макросов от wOxxOm.
+- [wOxxOm Tools](https://github.com/elvin-nsk/wx_Tools) :octocat: - Известный сборник макросов от wOxxOm.
 
 
 
