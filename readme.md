@@ -42,6 +42,9 @@
 - [Color Replacer](catalog/ColorReplacer) - Замена цвета в объектах/заливках в нужном диапазоне.
 - [Mirror Fountain Fill](catalog/MirrorFF) - Позволяет в один клик отзеркалить сложные градиентные заливки, что невозможно сделать стандартными возможностями CorelDRAW. Проверен в работе на версиях 15, 16.
 
+## Эффекты
+- [HighLights](http://www.corelvba.com/index.php?pages=high_1) :earth_americas: - Делает эффект типа emboss (впукливание/выпукливание). Заявлена совместимость с версиями 13–17.
+
 ## Прочее
 - [Bitmap Tools](https://github.com/elvin-nsk/BitmapTools) :octocat: - Редактирование растровых картинок из корела в фотошопе.
 - [Geometric Information](https://smartprepress.ru/GeometricExt.gms) :earth_asia: - Расчёт площади, периметра, объёма сложных фигур.
