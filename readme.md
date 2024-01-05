@@ -52,6 +52,7 @@
 - [Select Same](catalog/SelectSame) - Позволяет находить объекты, похожие на выделенный, по разным признакам.
 - [SyncWindowsToggle](catalog/SyncWindowsToggle) - Макрос создает второе окно для документа, в котором синхронно отображает в режиме wireframe (каркас).
 - [TablePresetDocker](catalog/TablePresetDocker) - Докер. Графические пресеты для таблиц.
+- [Takoi ili Ne Takoi](https://github.com/elvin-nsk/TakoiNeTakoi) :octocat: - Тоже позволяет находить объекты, похожие на выделенный, по разным признакам.
 - [Thumbnailer](https://www.oberonplace.com/vba/drawmacros/thumbnailer/index.htm) :earth_asia: - Импортирует файлы из указанной папки и создаёт для них превьюшки на листе.
 - [Transform Each](https://forum.rudtp.ru/threads/macros-transform-each-v-2.70491/) :earth_asia: - Макрос для массовой трансформации объектов. Изменение масштаба, поворот и прочее применяются к каждому из выделенных объектов.
 
