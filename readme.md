@@ -35,6 +35,10 @@
 - [eCut](http://www.plotcalc.com) :moneybag: - Софт, работающий через корел. Подготовка файлов для плоттерной/фрезерной резки, расчет стоимости выполнения работ, а так же непосредственно вывод на плоттер. Так же программа имеет в своем арсенале функции для расчета световых вывесок, построения кассет из композитных материалов и многое другое.
 - [PlotCalc](http://www.plotcalc.com) :moneybag: - Предназначен для дизайнеров, занимающихся порезкой на плоттере. Вывод на порезку, сортировка, измерение длины кривых, измерение площади фигур, схема в масштабе, поиск точек пересечения.
 
+## Поиск, получение информации
+- [Select Same](catalog/SelectSame) - Позволяет находить объекты, похожие на выделенный, по разным признакам.
+- [Takoi ili Ne Takoi](https://github.com/elvin-nsk/TakoiNeTakoi) :octocat: - Тоже позволяет находить объекты, похожие на выделенный, по разным признакам.
+
 ## Текст
 - [Corrector](catalog/Corrector) - Сброс параметров текста, замена символов, удаление лишних символов.
 
@@ -49,10 +53,8 @@
 - [Bitmap Tools](https://github.com/elvin-nsk/BitmapTools) :octocat: - Редактирование растровых картинок из корела в фотошопе.
 - [Geometric Information](https://smartprepress.ru/GeometricExt.gms) :earth_asia: - Расчёт площади, периметра, объёма сложных фигур.
 - [RemoveUnderlyingDups](catalog/RemoveUnderlyingDups) - Макрос находит и удаляет дубликаты объектов, лежащих друг на друге.
-- [Select Same](catalog/SelectSame) - Позволяет находить объекты, похожие на выделенный, по разным признакам.
 - [SyncWindowsToggle](catalog/SyncWindowsToggle) - Макрос создает второе окно для документа, в котором синхронно отображает в режиме wireframe (каркас).
 - [TablePresetDocker](catalog/TablePresetDocker) - Докер. Графические пресеты для таблиц.
-- [Takoi ili Ne Takoi](https://github.com/elvin-nsk/TakoiNeTakoi) :octocat: - Тоже позволяет находить объекты, похожие на выделенный, по разным признакам.
 - [Thumbnailer](https://www.oberonplace.com/vba/drawmacros/thumbnailer/index.htm) :earth_asia: - Импортирует файлы из указанной папки и создаёт для них превьюшки на листе.
 - [Transform Each](https://forum.rudtp.ru/threads/macros-transform-each-v-2.70491/) :earth_asia: - Макрос для массовой трансформации объектов. Изменение масштаба, поворот и прочее применяются к каждому из выделенных объектов.
 
