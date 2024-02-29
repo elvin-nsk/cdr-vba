@@ -15,11 +15,11 @@
 
 ## Документ, страницы
 - [BitExAll](https://forum.rudtp.ru/resources/x8-iz-korelovskogo-fajla-vytaschit-rastrovye-kartinki.1955/) :earth_asia: - Экспортирует растровые картинки из документа.
-- [File Name Inserter](https://www.oberonplace.com/vba/drawmacros/pathlabel/index.htm) :earth_asia: - Вставляет имя файла документа на страницу(ы).
+- [File Name Inserter (PathLabel)](catalog/PathLabel) - Вставляет имя файла документа на страницу(ы).
 
 ## Допечатная подготовка
 - [Convert to Curves (CtC)](catalog/CtC) - Допечатная проверка (префлайт), автоматический фикс цветности, чёрного, эффектов, растра, прозрачности, обводок. Must have.
-- [Tiler](catalog/Tiler#readme) - Укладчик на лист. Настройка припусков, расстояний, установка меток.
+- [Tiler](catalog/Tiler) - Укладчик на лист. Настройка припусков, расстояний, установка меток.
 
 ## Метки, направляющие, шаблоны
 - [EyeletMarking](http://www.corelvba.com/index.php?pages=eyelet_1) :earth_americas: - Расстановка меток для установки люверсов. Возможность задать диаметр люверса, расстояние между люверсами, формирование поля под загиб. Проверен в работе на версиях 15 и 17.
