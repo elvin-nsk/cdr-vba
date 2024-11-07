@@ -10,12 +10,12 @@
 
 - без значка - страничка и/или папка с файлами находится в каталоге
 - :octocat: - ссылка на ресурс на github'е
-- :earth_asia: &#47; :earth_americas: - внешняя ссылка на русскоязычный / англоязычный ресурс
+- :earth_africa: &#47; :earth_americas: - внешняя ссылка на русскоязычный / англоязычный ресурс
 - :moneybag: - платный макрос, всегда по внешней ссылке
 
 ## Документ, страницы
-- [BitExAll](https://forum.rudtp.ru/resources/x8-iz-korelovskogo-fajla-vytaschit-rastrovye-kartinki.1955/) :earth_asia: - Экспортирует растровые картинки из документа.
-- [ExPDF](https://forum.rudtp.ru/threads/publish-to-pdf.78812/) :earth_asia: - Экспорт в ПДФ текущей или всех страниц документа
+- [BitExAll](https://forum.rudtp.ru/resources/x8-iz-korelovskogo-fajla-vytaschit-rastrovye-kartinki.1955/) :earth_africa: - Экспортирует растровые картинки из документа.
+- [ExPDF](https://forum.rudtp.ru/threads/publish-to-pdf.78812/) :earth_africa: - Экспорт в ПДФ текущей или всех страниц документа
 с заданными параметрами по цвету, разрешению растра, местоположению и наличию вылетов.
 - [File Name Inserter (PathLabel)](catalog/PathLabel) - Вставляет имя файла документа на страницу(ы).
 
@@ -53,17 +53,18 @@
 - [HighLights](http://www.corelvba.com/index.php?pages=high_1) :earth_americas: - Делает эффект типа emboss (впукливание/выпукливание). Заявлена совместимость с версиями 13–17.
 
 ## Прочее
+- [Adjust Objects; Retain Positions (AORP)](https://community.coreldraw.com/share/b/eskimo/posts/21-macro---aorp-adjust-objects-retain-positions) :earth_americas: - Макрос для массовой трансформации объектов, аналог макроса `Transform Each`. Завявлена совместимость с версиями 17–21.
 - [Bitmap Tools](https://github.com/elvin-nsk/BitmapTools) :octocat: - Редактирование растровых картинок из корела в фотошопе.
-- [Geometric Information](https://smartprepress.ru/GeometricExt.gms) :earth_asia: - Расчёт площади, периметра, объёма сложных фигур.
+- [Geometric Information](https://smartprepress.ru/GeometricExt.gms) :earth_africa: - Расчёт площади, периметра, объёма сложных фигур.
 - [RemoveUnderlyingDups](catalog/RemoveUnderlyingDups) - Макрос находит и удаляет дубликаты объектов, лежащих друг на друге.
 - [SyncWindowsToggle](catalog/SyncWindowsToggle) - Макрос создает второе окно для документа, в котором синхронно отображает в режиме wireframe (каркас).
 - [TablePresetDocker](catalog/TablePresetDocker) - Докер. Графические пресеты для таблиц.
-- [Thumbnailer](https://www.oberonplace.com/vba/drawmacros/thumbnailer/index.htm) :earth_asia: - Импортирует файлы из указанной папки и создаёт для них превьюшки на листе.
+- [Thumbnailer](https://www.oberonplace.com/vba/drawmacros/thumbnailer/index.htm) :earth_africa: - Импортирует файлы из указанной папки и создаёт для них превьюшки на листе.
 - [Transform Each](https://forum.rudtp.ru/threads/macros-transform-each-v-2.70491/) :earth_asia: - Макрос для массовой трансформации объектов. Изменение масштаба, поворот и прочее применяются к каждому из выделенных объектов.
 
 ## Сборники
 - [Grafisin Macro Collections](http://www.grafisin.com/2018/04/free-macro-collections-2018-for.html) :earth_americas: - Сборник разных небольших макросов от индонезийских товарищей, на английском языке: дупликация, замена текста, замена цвета, нумерация, создание превьюшек, фрактальные эффекты, метки реза и прочее.
-- [RionFreeScripts](http://www.rion.ru/information/scripts/) :earth_asia: - Макросы от типографии "Рион": перевод текста в кривые, замена цвета, замена параметров обводки, экспорт в jpeg, допечатная проверка (префлайт), создание векторного штрих-кода.
+- [RionFreeScripts](http://www.rion.ru/information/scripts/) :earth_africa: - Макросы от типографии "Рион": перевод текста в кривые, замена цвета, замена параметров обводки, экспорт в jpeg, допечатная проверка (префлайт), создание векторного штрих-кода.
 - [wOxxOm Tools](https://github.com/elvin-nsk/wx_Tools) :octocat: - Известный сборник макросов от wOxxOm.
 
 

@@ -11,6 +11,12 @@
 
 ![иллюстрация/UI](assets/image.png)
 
+## Скачать
+
+- Версия 1.0 от BestUser - [ссылка]() :earth_africa:
+- Версия 2.0 от CoolHacker - [ссылка]() :octocat:
+- Другие версии можно найти в [архиве](archive/).
+
 ## Установка
 
 [Стандартная](../../articles/installation.md).
