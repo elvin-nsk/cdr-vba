@@ -17,6 +17,7 @@
 - [BitExAll](https://forum.rudtp.ru/resources/x8-iz-korelovskogo-fajla-vytaschit-rastrovye-kartinki.1955/) :earth_africa: - Экспортирует растровые картинки из документа.
 - [ExPDF](https://forum.rudtp.ru/threads/publish-to-pdf.78812/) :earth_africa: - Экспорт в ПДФ текущей или всех страниц документа
 с заданными параметрами по цвету, разрешению растра, местоположению и наличию вылетов.
+- [ExportJPG](catalog/ExportJPG) - Экспорт документа постранично в растровые или векторные файлы.
 - [File Name Inserter (PathLabel)](catalog/PathLabel) - Вставляет имя файла документа на страницу(ы).
 
 ## Допечатная подготовка
