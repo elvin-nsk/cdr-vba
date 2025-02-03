@@ -12,7 +12,7 @@
 
 ![иллюстрация/UI](assets/image.png)
 
-## Скачать
+## Версии
 
 - Версия 1.0 от BestUser - [ссылка](http://OUTER_LINK) :earth_africa:
 - Версия 2.0 от CoolHacker - [ссылка](https://github.com/GITHUB_USER/REPOSITORY) :octocat:

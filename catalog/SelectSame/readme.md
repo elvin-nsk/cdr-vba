@@ -11,7 +11,7 @@
 
 ![](assets/JH-SS-3.png)
 
-## Скачать
+## Версии
 
 - Версия 3 - [ссылка](http://macromonster.com/product/jeffs-select-same-2/) :earth_americas:
 - Также копия последней версии лежит в архиве - [ссылка](archive/jh_selectsame.zip)
