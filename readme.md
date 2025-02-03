@@ -41,6 +41,7 @@
 - [PlotCalc](http://www.plotcalc.com) :moneybag: - Предназначен для дизайнеров, занимающихся порезкой на плоттере. Вывод на порезку, сортировка, измерение длины кривых, измерение площади фигур, схема в масштабе, поиск точек пересечения.
 
 ## Поиск, получение информации
+- [Geometric Information](https://smartprepress.ru/GeometricExt.gms) :earth_asia: - Расчёт площади, периметра, объёма сложных фигур.
 - [ObjectFinder](https://github.com/elvin-nsk/ObjectFinder) :octocat: - Поиск объектов по размеру.
 - [Select Same](catalog/SelectSame) - Позволяет находить объекты, похожие на выделенный, по разным признакам.
 - [Takoi ili Ne Takoi](https://github.com/elvin-nsk/TakoiNeTakoi) :octocat: - Тоже позволяет находить объекты, похожие на выделенный, по разным признакам.
@@ -58,7 +59,6 @@
 ## Прочее
 - [Adjust Objects; Retain Positions (AORP)](https://community.coreldraw.com/share/b/eskimo/posts/21-macro---aorp-adjust-objects-retain-positions) :earth_americas: - Макрос для массовой трансформации объектов, аналог макроса `Transform Each`. Завявлена совместимость с версиями 17–21.
 - [Bitmap Tools](https://github.com/elvin-nsk/BitmapTools) :octocat: - Редактирование растровых картинок из корела в фотошопе.
-- [Geometric Information](https://smartprepress.ru/GeometricExt.gms) :earth_africa: - Расчёт площади, периметра, объёма сложных фигур.
 - [RemoveUnderlyingDups](catalog/RemoveUnderlyingDups) - Макрос находит и удаляет дубликаты объектов, лежащих друг на друге.
 - [SmartDepart](https://github.com/fersatgit/SmartDepart#readme) :octocat: - cpg-аддон для разбиения или объединения кривых с учётом их вложенности
 - [SyncWindowsToggle](catalog/SyncWindowsToggle) - Макрос создает второе окно для документа, в котором синхронно отображает в режиме wireframe (каркас).
