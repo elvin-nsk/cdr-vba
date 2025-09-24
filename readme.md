@@ -33,6 +33,7 @@
 
 ## Переменные данные
 - [BestGenerator](https://bestgenerator.smartprepress.ru) :moneybag: - Макрос для пакетного размещения в макете любых переменных (серийных номеров, штрих-кодов и QR-кодов, текстов, изображений). Для версий 17 и выше.
+- [ID Card Maker](https://dtptips.com/free-id-card-maker-software-macro-insert-add-data-and-photo-automatically/) :earth_americas: - подстановка переменных данных из текстового файла: текста, изображений, баркодов.
 
 ## Плоттерная резка
 - [DevelopmentSign](http://corelvba.com/index.php?pages=develop_1) :earth_americas: - Макрос для построения развёртки боковой поверхности объемной буквы с линиями сгиба.
