@@ -36,6 +36,7 @@
 - [ID Card Maker](https://dtptips.com/free-id-card-maker-software-macro-insert-add-data-and-photo-automatically/) :earth_americas: - подстановка переменных данных из текстового файла: текста, изображений, баркодов.
 
 ## Плоттерная резка
+- [Bleeds](https://github.com/fersatgit/Bleeds#readme) :octocat: - cpg-аддон для создания припусков растровым объектам по контуру альфа-канала. 
 - [DevelopmentSign](http://corelvba.com/index.php?pages=develop_1) :earth_americas: - Макрос для построения развёртки боковой поверхности объемной буквы с линиями сгиба.
 - [DirectEnpack](https://github.com/fersatgit/DirectEnpack#readme) :octocat: - cpg-аддон для компоновки прямоугольных объектов на лист. Не для резки гильотиной. Nesting-укладчик, написанный на ассемблере. 
 - [eCut](http://www.plotcalc.com) :moneybag: - Софт, работающий через корел. Подготовка файлов для плоттерной/фрезерной резки, расчет стоимости выполнения работ, а так же непосредственно вывод на плоттер. Так же программа имеет в своем арсенале функции для расчета световых вывесок, построения кассет из композитных материалов и многое другое.
