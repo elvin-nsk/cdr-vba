@@ -49,7 +49,7 @@
 - [Takoi ili Ne Takoi](https://github.com/elvin-nsk/TakoiNeTakoi) :octocat: - Тоже позволяет находить объекты, похожие на выделенный, по разным признакам.
 
 ## Текст
-- [Corrector](catalog/Corrector) - Сброс параметров текста, замена символов, удаление лишних символов.
+- [Text Corrector](catalog/Corrector) - Сброс параметров текста, замена символов, удаление лишних символов.
 
 ## Цвет, заливка
 - [Color Replacer](catalog/ColorReplacer) - Замена цвета в объектах/заливках в нужном диапазоне.
