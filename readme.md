@@ -60,6 +60,7 @@
 
 ## Прочее
 - [Adjust Objects; Retain Positions (AORP)](https://community.coreldraw.com/share/b/eskimo/posts/21-macro---aorp-adjust-objects-retain-positions) :earth_americas: - Макрос для массовой трансформации объектов, аналог макроса `Transform Each`. Завявлена совместимость с версиями 17–21.
+- [AI Clipboard (AIClipBrd)](catalog/AIClipBrd) - копирует объекты из/в Иллюстратор через экспорт буфера обмена во временную папку.
 - [Bitmap Tools](https://github.com/elvin-nsk/BitmapTools) :octocat: - Редактирование растровых картинок из корела в фотошопе.
 - [RemoveUnderlyingDups](catalog/RemoveUnderlyingDups) - Макрос находит и удаляет дубликаты объектов, лежащих друг на друге.
 - [SmartDepart](https://github.com/fersatgit/SmartDepart#readme) :octocat: - cpg-аддон для разбиения или объединения кривых с учётом их вложенности
